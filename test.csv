@@ -1,0 +1,79 @@
+CustomerID, Age, Gender, Tenure, Usage Frequency, Support Calls, Payment Delay, Subscription Type, Contract Length, Total Spend, Last Interaction, Churn
+     41385,  21, Male  ,     30,              25,             0,            19, Premium          , Monthly        ,      416   ,                1,     0
+     41389,  63, Male  ,      4,              13,             0,             8, Standard         , Quarterly      ,      551   ,               25,     0
+    396441,  40, Female,     52,               5,             4,             8, Premium          , Quarterly      ,      512.76,               10,     0
+    396442,  48, Female,     51,              22,             1,             3, Basic            , Quarterly      ,      909.37,                7,     0
+    396444,  25, Male  ,     38,              29,             0,            10, Basic            , Quarterly      ,      784.75,               11,     0
+    396446,  31, Female,     17,              22,             2,            15, Basic            , Annual         ,      794.23,                8,     0
+    396447,  42, Male  ,     56,              18,             1,            10, Standard         , Annual         ,      640.86,                7,     0
+    396448,  29, Male  ,     17,              15,             1,            18, Basic            , Quarterly      ,      850.18,               29,     0
+    396449,  45, Female,     55,               7,             2,            13, Premium          , Quarterly      ,      781.56,                2,     0
+    396450,  45, Male  ,      6,               7,             0,             1, Basic            , Annual         ,      994.93,               14,     0
+    396451,  35, Male  ,     28,              13,             3,             2, Standard         , Quarterly      ,      764.41,                8,     0
+    396455,  44, Male  ,     60,               5,             4,            16, Basic            , Annual         ,      649.67,               28,     0
+    396456,  43, Male  ,     43,              12,             3,            13, Standard         , Annual         ,      663.31,               17,     0
+    396457,  40, Male  ,     60,              14,             0,            17, Premium          , Quarterly      ,      925.81,               23,     0
+    396458,  26, Male  ,     15,              29,             0,            13, Basic            , Quarterly      ,      598.18,               19,     0
+    396459,  50, Male  ,     53,               1,             3,            10, Premium          , Annual         ,      922.26,                3,     0
+    396460,  34, Male  ,     43,              12,             2,             7, Standard         , Annual         ,      978.62,                9,     0
+    396461,  22, Male  ,     45,               1,             1,             3, Premium          , Annual         ,      652.36,               24,     0
+    396463,  26, Male  ,     26,              27,             1,             7, Standard         , Annual         ,      973.91,               15,     0
+    396465,  43, Male  ,     40,               5,             2,            14, Standard         , Quarterly      ,      832.03,                5,     0
+    396466,  46, Female,     60,              30,             0,             0, Basic            , Quarterly      ,      769.96,               11,     0
+    396467,  30, Male  ,      9,               9,             1,            12, Basic            , Quarterly      ,      928.72,                5,     0
+    396468,  31, Male  ,     38,              12,             1,            19, Premium          , Quarterly      ,      974.12,               22,     0
+    396469,  28, Female,     11,               6,             0,            18, Standard         , Annual         ,      712.06,                6,     0
+    396470,  46, Male  ,     29,              25,             0,             8, Basic            , Quarterly      ,      820.28,               10,     0
+    396471,  37, Male  ,     59,              15,             2,            17, Basic            , Quarterly      ,      648.49,               18,     0
+    396472,  26, Female,     23,              12,             0,            10, Basic            , Quarterly      ,      704.88,               12,     0
+    396473,  34, Male  ,     58,              30,             1,             5, Premium          , Annual         ,      643.6 ,                2,     0
+    396474,  50, Male  ,     49,               4,             0,            18, Basic            , Quarterly      ,      589.58,               27,     0
+    396475,  45, Male  ,     54,              26,             4,             1, Standard         , Annual         ,      972.89,               24,     0
+    396476,  42, Male  ,     59,               4,             0,            20, Standard         , Annual         ,      519.58,                4,     0
+    396477,  38, Female,     46,               5,             3,            13, Premium          , Annual         ,      536.24,               13,     0
+    396478,  30, Male  ,     25,              11,             2,            15, Standard         , Quarterly      ,      695.62,               28,     0
+    396488,  48, Male  ,     59,               7,             2,            18, Standard         , Quarterly      ,      736.66,               27,     0
+    396503,  45, Male  ,     23,              23,             3,             0, Standard         , Annual         ,      647.58,               19,     0
+    396504,  44, Male  ,     44,              30,             2,            20, Basic            , Quarterly      ,      926.83,               29,     0
+    396505,  49, Female,     29,              14,             0,            18, Standard         , Quarterly      ,      515.01,                8,     0
+    396506,  30, Male  ,     13,              16,             0,             5, Standard         , Annual         ,      885.89,               11,     0
+    396555,  26, Male  ,     27,               8,             1,             0, Premium          , Quarterly      ,      767.92,               23,     0
+    396556,  33, Male  ,     48,              25,             2,             0, Basic            , Quarterly      ,      881.42,                5,     0
+    396565,  39, Male  ,     23,              13,             0,             0, Premium          , Quarterly      ,      614.16,               23,     0
+    396566,  31, Female,     59,               8,             2,            18, Standard         , Quarterly      ,      939.42,                6,     0
+    396582,  37, Female,     31,              22,             2,             1, Premium          , Annual         ,      764.85,                8,     0
+    396583,  35, Female,     22,              25,             0,             0, Basic            , Quarterly      ,      663.61,                4,     0
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
